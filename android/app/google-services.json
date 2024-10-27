@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30150520913",
+    "project_id": "kamiyabi-c4504",
+    "storage_bucket": "kamiyabi-c4504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30150520913:android:f07daca876d85fd2040870",
+        "android_client_info": {
+          "package_name": "com.example.kamiyabtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj-eK16tJDQ106nynA26k7_-OBtgDicKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
